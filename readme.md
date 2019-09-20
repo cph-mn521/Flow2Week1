@@ -35,4 +35,4 @@ Jeg har bevidst ikke gjort metoderne gennerelle men hardcoded dem, fordi det gø
 
 # Deployment:
 
-Intet er deployet, er igang med at starte min droplet op fra bunden igen efter jeg prøvede noget advanced ubunto ting, der ikke gik som det skulle ¯\_(ツ)_/¯
+Intet er deployet, er igang med at starte min droplet op fra bunden igen efter jeg prøvede noget advanced ubunto ting, der ikke gik som det skulle ¯\\_(ツ)_/¯
